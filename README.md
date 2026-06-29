@@ -27,3 +27,17 @@ pip install -r requirements.txt
 ## Run
 
 streamlit run app.py
+
+## Screenshots
+
+### Home Page
+
+![Home](images/home.png)
+
+### Upload File
+
+![Upload](images/upload.png)
+
+### Summary Output
+
+![Summary](images/summary.png)
